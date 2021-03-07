@@ -1,0 +1,24 @@
+{
+  "name": "scrambled-eggerts-web-application",
+  "version": "1.0.0",
+  "description": "Austyn Adams's, Elle's, and David's Web App for UCLA CS 97 Winter 2021. ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "latest",
+    "ejs": "latest",
+    "express": "latest",
+    "mongodb": "latest",
+    "npm": "latest",
+    "assert": "latest",
+    "locus": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "latest"
+  },
+  "keywords": []
+}
